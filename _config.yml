@@ -100,20 +100,20 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
-  id: minixalpha
+  config: true
+  id: zhoupIT
 
 
 #################################### global configure #######################################
 
 username: zhoupIT
-baseurl: /blog
+baseurl: /Blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: IDeventer
 description: 学习的路上
-theme: kunka
+theme: merlot
 disqusname: zhoupIT
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
