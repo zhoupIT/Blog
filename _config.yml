@@ -43,12 +43,9 @@ timezone:      null
 
 
 #Site config
-title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
-url: /StrayBirds
-feed: /atom.xml
-favicon: http://jekyllrb.com/favicon.png
+title: IDeventer
+description: 一个coder
+keywords: iOS coder
 
 #Nav config
 nav:
@@ -67,7 +64,7 @@ nav:
 author:
     name: zhoupIT
     email: zhou437383092@163.com
-    imageLink: https://avatars.githubusercontent.com/minixalpha
+    imageLink: http://upload-images.jianshu.io/upload_images/1041928-dc6bb7346f4c7d7c.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
     simpleIntro: 我是 zhoupIT
     detailIntro:
       
@@ -112,7 +109,7 @@ safe: false
 highlighter: pygments
 title: IDeventer
 description: 学习的路上
-theme: kunka
+theme: merlot
 disqusname: zhoupIT
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
