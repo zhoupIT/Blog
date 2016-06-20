@@ -109,7 +109,7 @@ safe: false
 highlighter: pygments
 title: IDeventer
 description: 学习的路上
-theme: leap-day
+theme: hack
 disqusname: zhoupIT
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
